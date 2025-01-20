@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/royal-wedding/static/css/main.4677acc8.css",
+    "main.js": "/royal-wedding/static/js/main.c3860179.js",
+    "static/media/B7UGv501.svg": "/royal-wedding/static/media/B7UGv501.c062e54398ac59531cb242a8489167e8.svg",
+    "index.html": "/royal-wedding/index.html",
+    "main.4677acc8.css.map": "/royal-wedding/static/css/main.4677acc8.css.map",
+    "main.c3860179.js.map": "/royal-wedding/static/js/main.c3860179.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4677acc8.css",
+    "static/js/main.c3860179.js"
+  ]
+}
